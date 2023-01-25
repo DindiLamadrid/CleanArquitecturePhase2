@@ -7,7 +7,10 @@ import co.com.ias.ejercicioCA.domain.model.student.Student;
 
 import java.util.List;
 
+
 public class CourseUseCase {
+
+
 
     private final ICourseRepository iCourserepository;
 
